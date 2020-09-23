@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'W1', 'text': '', 'tags': '', 'url': 'W1.html'}, {'title': '隨身系統安裝', 'text': '', 'tags': '', 'url': '隨身系統安裝.html'}, {'title': '分組任務', 'text': '第一周我們分別製作用各種立體軟體做以下檔案，我是使用SOLIDWORKS製作37-50題 \n \n', 'tags': '', 'url': '分組任務.html'}, {'title': 'W2', 'text': '', 'tags': '', 'url': 'W2.html'}]};
